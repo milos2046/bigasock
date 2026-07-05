@@ -1,0 +1,112 @@
+{
+  "news": [
+    {
+      "sector": "ai",
+      "level": "hot",
+      "title": "端侧 AI 新机密集发布",
+      "meta": "映射：AI应用、消费电子、端侧算力",
+      "score": 91
+    },
+    {
+      "sector": "robot",
+      "level": "hot",
+      "title": "人形机器人订单预期升温",
+      "meta": "映射：减速器、伺服电机、传感器",
+      "score": 88
+    },
+    {
+      "sector": "semi",
+      "level": "watch",
+      "title": "先进封装景气度延续",
+      "meta": "映射：先进封装、HBM、设备材料",
+      "score": 76
+    },
+    {
+      "sector": "energy",
+      "level": "watch",
+      "title": "固态电池产业链有进展",
+      "meta": "映射：电解质、锂电设备、材料",
+      "score": 72
+    }
+  ],
+  "market": {
+    "limitUp": 63,
+    "chainLimitUp": 12,
+    "breakRate": 21,
+    "breadth": 0.63,
+    "marketPhase": "强势震荡",
+    "mainlineLevel": "BC"
+  },
+  "sectors": [
+    {
+      "title": "AI应用",
+      "theme": "ai",
+      "limitUp": 9,
+      "breaks": 2,
+      "turnoverChange": 28,
+      "score": 92
+    },
+    {
+      "title": "人形机器人",
+      "theme": "robot",
+      "limitUp": 7,
+      "breaks": 1,
+      "turnoverChange": 22,
+      "score": 89
+    },
+    {
+      "title": "先进封装",
+      "theme": "semi",
+      "limitUp": 4,
+      "breaks": 1,
+      "turnoverChange": 14,
+      "score": 78
+    },
+    {
+      "title": "固态电池",
+      "theme": "energy",
+      "limitUp": 3,
+      "breaks": 2,
+      "turnoverChange": 8,
+      "score": 69
+    }
+  ],
+  "candidates": [
+    {
+      "code": "300773",
+      "name": "拉卡拉",
+      "theme": "AI应用",
+      "buyPoint": "酝酿启动",
+      "leader": "A",
+      "trend": 93,
+      "action": "可重点"
+    },
+    {
+      "code": "688419",
+      "name": "耐科装备",
+      "theme": "机器人",
+      "buyPoint": "首次分歧",
+      "leader": "A-",
+      "trend": 88,
+      "action": "等承接"
+    },
+    {
+      "code": "002673",
+      "name": "西部证券",
+      "theme": "金融",
+      "buyPoint": "再启动",
+      "leader": "B+",
+      "trend": 79,
+      "action": "观察"
+    },
+    {
+      "code": "600693",
+      "name": "东百集团",
+      "theme": "商业零售",
+      "buyPoint": "活跃龙套利",
+      "leader": "B",
+      "trend": 72,
+      "action": "不接力"
+    }
+  ]
+}
